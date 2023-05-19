@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "ggpush": "^1.0.4"
+    "ggpush": "^1.0.4",
+    "styled-components": "^5.3.10"
   }
 }
